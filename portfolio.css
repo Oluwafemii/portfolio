@@ -12,7 +12,7 @@ body {
     min-height: 100vh;
     width: 100%;
     
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(../langingpage/images/dext4.img.JPG);
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(./images/dext4.img.JPG);
     background-size: cover;
     background-position: center;
 }
